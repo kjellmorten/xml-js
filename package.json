@@ -1,17 +1,17 @@
 {
-  "name": "xml-js",
-  "version": "1.6.11",
-  "description": "A convertor between XML text and Javascript object / JSON text.",
+  "name": "@kjellmorten/xml-js",
+  "version": "1.6.12",
+  "description": "A convertor between XML text and Javascript object / JSON text. This fork adds the `allowDoubleSanitization` option.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nashwaan/xml-js.git"
+    "url": "git+https://github.com/kjellmorten/xml-js.git"
   },
-  "author": "Yousuf Almarzooqi <ysf953@gmail.com>",
+  "author": "Yousuf Almarzooqi <ysf953@gmail.com>. Fork by Kjell-Morten Bratsberg Thorsen <post@kjellmorten.no>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nashwaan/xml-js/issues"
+    "url": "https://github.com/kjellmorten/xml-js/issues"
   },
-  "homepage": "https://github.com/nashwaan/xml-js#readme",
+  "homepage": "https://github.com/kjellmorten/xml-js#readme",
   "keywords": [
     "XML",
     "xml",
